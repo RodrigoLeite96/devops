@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/spsao1n-87038689/Documentos/estudos/devops/vagrant-lab","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
